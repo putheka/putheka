@@ -1,4 +1,4 @@
-![logo](https://github.com/putheka/BoB/blob/main/githubcover.png)
+![logo](https://github.com/putheka/putheka/blob/main/githubcover.png)
 <h1 align="center">Hi 👋, I'm BoB</h1>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yeajKu6T2MzPPDmmNUwDSEekng2hiORr3OSocUuy7s0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZmFzdC1i/aW5hcnktYmx1ZS1j/b2RpbmctcGFsdXlq/YWo0Y3VnZGhsbC5n/aWY.gif">
 <h3 align="center">🎓 I'm a third-year student pursuing a major in Information Technology Engineering at the Royal University of Phnom Penh (RUPP).</h3>
