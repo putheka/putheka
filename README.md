@@ -1,7 +1,7 @@
 ![logo](https://github.com/putheka/putheka/blob/main/githubcover.png)
 <h1 align="center">Hi 👋, I'm BoB</h1>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yeajKu6T2MzPPDmmNUwDSEekng2hiORr3OSocUuy7s0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZmFzdC1i/aW5hcnktYmx1ZS1j/b2RpbmctcGFsdXlq/YWo0Y3VnZGhsbC5n/aWY.gif">
-<h3 align="center">🎓 I'm a third-year student pursuing a major in Information Technology Engineering at the Royal University of Phnom Penh (RUPP).</h3>
+<h3 align="center">🎓 I'm a four-year student pursuing a major in Information Technology Engineering at the Royal University of Phnom Penh (RUPP).</h3>
 <h3 align="center">🌐 I'm passionate about technology and enjoy exploring various facets of the IT world. My academic journey has been a rewarding experience, allowing me to dive deep into the intricacies of Information Technology and engineering.</h3>
 <h3 align="center">🚀 As a budding developer and technology enthusiast, I'm always eager to learn and grow in this ever-evolving field. I enjoy coding and creating solutions that make a positive impact. Open source projects and collaborative coding efforts fascinate me, and I look forward to contributing to and learning from the open-source community.</h3>
 <h3 align="center">💡 If you share my passion for tech or are interested in collaborating on exciting projects, feel free to connect with me. Let's learn and grow together in the world of IT!</h3>
