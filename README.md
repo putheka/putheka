@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/chhonputheka" target="blank"><img src="https://img.shields.io/twitter/follow/chhonputheka?logo=twitter&style=for-the-badge" alt="chhonputheka" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
-
 - 📫 How to reach me **chhonputheka@gmail.com**
 
 - ⚡ Fun fact **Am not good at coding**
