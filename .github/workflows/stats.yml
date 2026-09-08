@@ -1,0 +1,23 @@
+name: generate stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # daily, 03:00 UTC
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          # PAT with "repo" scope (classic) or Contents: read/write (fine-grained).
+          # Store it as a repo secret named ACCESS_TOKEN.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          EXCLUDED_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
+          EXCLUDE_FORKED_REPOS: true
