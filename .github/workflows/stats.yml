@@ -18,14 +18,17 @@ jobs:
 
       - name: Download github-stats
         run: |
+          GITHUB_STATS_VERSION="2.0.1"
+          GITHUB_STATS_SHA256="5e15e02803559cec5b5bdae4f202939846789c4cd3a34cfd24ee9ff13d6902c5"
           curl --fail --location --output ./github-stats \
-            https://github.com/jstrieb/github-stats/releases/latest/download/github-stats_x86_64-linux
+            "https://github.com/jstrieb/github-stats/releases/download/${GITHUB_STATS_VERSION}/github-stats_x86_64-linux"
+          echo "${GITHUB_STATS_SHA256}  ./github-stats" | sha256sum --check
           chmod +x ./github-stats
 
       - name: Generate stats
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          EXCLUDE_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
+          EXCLUDED_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
           EXCLUDE_FORKED_REPOS: "true"
           SILENT: "true"
         run: ./github-stats
