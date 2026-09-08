@@ -19,7 +19,7 @@ putheka/
 The metrics workflow needs a token to read your contribution data.
 
 1. github.com/settings/tokens → **Generate new token (classic)**
-2. Tick the **`repo`** scope. Copy the token.
+2. Tick the **`read:user`**, **`user:email`**, and **`repo`** scopes. Copy the token.
 3. In `putheka/putheka`: **Settings → Secrets and variables → Actions → New repository secret**
 4. Name it exactly `ACCESS_TOKEN`. Paste the token as the value.
 
@@ -53,7 +53,7 @@ dotfolders. Either:
 ## Troubleshooting
 
 **Metrics images broken.** Check the Actions run log. Almost always a missing or
-expired `ACCESS_TOKEN`, or the token lacks `repo` scope. The workflow commits
+expired `ACCESS_TOKEN`, or the token lacks `read:user`, `user:email`, or `repo` scope. The workflow commits
 `assets/metrics.svg` and `assets/activity.svg` — if those files aren't in the
 repo after a green run, the commit step was blocked (see workflow permissions
 below).
