@@ -25,9 +25,15 @@ jobs:
           echo "${GITHUB_STATS_SHA256}  ./github-stats" | sha256sum --check
           chmod +x ./github-stats
 
+      - name: Validate ACCESS_TOKEN
+        if: ${{ secrets.ACCESS_TOKEN == '' }}
+        run: |
+          echo "::error::Missing ACCESS_TOKEN secret. Add a classic PAT with read:user, user:email, and repo scopes."
+          exit 1
+
       - name: Generate stats
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           EXCLUDED_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
           EXCLUDE_FORKED_REPOS: "true"
           SILENT: "true"
