@@ -14,10 +14,18 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: jstrieb/github-stats@master
-        with:
-          # PAT with "repo" scope (classic) or Contents: read/write (fine-grained).
-          # Store it as a repo secret named ACCESS_TOKEN.
+      - uses: actions/checkout@v4
+
+      - name: Download github-stats
+        run: |
+          curl --fail --location --output ./github-stats \
+            https://github.com/jstrieb/github-stats/releases/latest/download/github-stats_x86_64-linux
+          chmod +x ./github-stats
+
+      - name: Generate stats
+        env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          EXCLUDED_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
-          EXCLUDE_FORKED_REPOS: true
+          EXCLUDE_LANGS: "HTML,CSS,Blade,SCSS,Dockerfile,Shell"
+          EXCLUDE_FORKED_REPOS: "true"
+          SILENT: "true"
+        run: ./github-stats
