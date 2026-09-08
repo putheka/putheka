@@ -1,84 +1,148 @@
-<h1 align="center">Hi 👋, I'm BoB</h1>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/13622306/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIxMzkzMTksIm5iZiI6MTc2MjEzOTAxOSwicGF0aCI6Ii8xMzYyMjMwNi81MDczMzEyMjMtNTRkYzFmN2EtZjMyNy00M2FiLWFlOWMtNThjNzQyMWVlZTM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAzVDAzMDMzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2MTNiOTI5OTZhZDM2MDU3M2E3Y2I4YWU0MGI1MTgwMmM2YmZjYmE2NWJjOWU0MTkzMjAzZmRhMWMzODZlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VPIB9XpldRvpkcG6Y6zvfoyjF1OJ_DAVg4HgV1gXrNI">
-<h3 align="center">🌐 I'm passionate about technology and enjoy exploring various facets of the IT world. My academic journey has been a rewarding experience, allowing me to dive deep into the intricacies of Information Technology and engineering.</h3>
-<h3 align="center">🚀 As a budding developer and technology enthusiast, I'm always eager to learn and grow in this ever-evolving field. I enjoy coding and creating solutions that make a positive impact. Open source projects and collaborative coding efforts fascinate me, and I look forward to contributing to and learning from the open-source community.</h3>
-<h3 align="center">💡 If you share my passion for tech or are interested in collaborating on exciting projects, feel free to connect with me. Let's learn and grow together in the world of IT!</h3>
-<h3 align="center">🌟 Looking forward to connecting with fellow tech enthusiasts, and sharing knowledge in the vast world of Information Technology!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=putheka&label=Profile%20views&color=0e75b6&style=flat" alt="putheka" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/chhonputheka" target="blank"><img src="https://img.shields.io/twitter/follow/chhonputheka?logo=twitter&style=for-the-badge" alt="chhonputheka" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20·%20APIs%20·%20Test-Driven%20Development&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-- 📫 How to reach me **chhonputheka@gmail.com**
-
-- ⚡ Fun fact **Am not good at coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chhonputheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhonputheka" height="30" width="40" /></a>
-<a href="https://fb.com/chhon putheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chhon putheka" height="30" width="40" /></a>
-<a href="https://instagram.com/unknow._.421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_o_b_03" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="40"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=Tests+first%2C+always.;Typed+contracts%2C+thin+controllers.;Red+%E2%86%92+Green+%E2%86%92+Refactor" alt="typing" />
 </a>
 
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <!-- TDD (Test Badge) -->
-  <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TDD-test--driven--development-informational?style=for-the-badge&logo=testing-library&logoColor=white" alt="tdd" height="40"/>
-  </a>
-</p>
+<br/>
 
+![Focus](https://img.shields.io/badge/focus-backend%20architecture-0f172a?style=flat-square)
+![Method](https://img.shields.io/badge/method-TDD-16a34a?style=flat-square)
+![Open to](https://img.shields.io/badge/open%20to-collaboration-3b82f6?style=flat-square)
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=putheka&show_icons=true&locale=en&layout=compact" alt="putheka" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putheka&show_icons=true&locale=en" alt="putheka" /></p>
+### Overview
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putheka&" alt="putheka" /></p>
+Full-stack engineer. Most of my day goes to the parts users never see: domain modelling, API contracts, third-party integrations, and the test suite that keeps all three honest. I care more about how a system fails than how it demos.
+
+---
+
+### How I work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Test-driven by default**
+
+A failing test before the implementation. Feature tests at the HTTP boundary, unit tests for domain logic, no mocking of code I own. Coverage is a diagnostic, not a target.
+
+</td>
+<td width="50%" valign="top">
+
+**Typed across the boundary**
+
+Types derived from the API contract, not hand-written twice. A schema change should break the build, not production.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Thin controllers, fat domain**
+
+Requests validate, controllers delegate, actions and services hold behaviour. Data access stays out of the view layer.
+
+</td>
+<td width="50%" valign="top">
+
+**Boring infrastructure**
+
+Queues for anything slow, idempotent jobs, structured logs. Third-party services treated as unreliable by default.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Readable over clever**
+
+Naming, small functions, obvious control flow. If a change needs a comment to explain why it's safe, the design is wrong.
+
+</td>
+<td width="50%" valign="top">
+
+**Migrations you can reverse**
+
+Schema changes shipped in steps: add, backfill, switch, drop. Never a deploy that can't be rolled back.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Currently
+
+- Designing and hardening REST APIs for production traffic
+- Integrating commerce and payment providers with unreliable upstreams
+- Improving test speed and reliability in a large, long-lived codebase
+- Reading more on domain-driven design and safely refactoring legacy code
+
+---
+
+<details>
+<summary><b>📊 GitHub activity</b></summary>
+<br/>
+
+<div align="center">
+
+<!-- Replace GH_USER with your GitHub handle -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GH_USER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="stats" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=GH_USER&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GH_USER&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+</details>
+
+<details>
+<summary><b>📌 Selected work</b></summary>
+<br/>
+
+| Project | What it solves |
+|---|---|
+| _project-one_ | The problem it removed, in one line — not the feature list |
+| _project-two_ | What became possible that wasn't before |
+| _project-three_ | The interesting constraint you designed around |
+
+> Replace with real repositories. Two well-documented projects beat ten empty ones.
+
+</details>
+
+<details>
+<summary><b>🧪 What a test looks like to me</b></summary>
+<br/>
+
+The assertion I care about most is rarely the status code:
+
+```
+it rejects an order when stock is insufficient
+  → request returns a validation error
+  → the error names the offending field
+  → and the stock row is unchanged
+```
+
+A rejected request that silently mutated state is a passing test and a broken system.
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>Open to collaborating on backend architecture, API design, and testing infrastructure.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
