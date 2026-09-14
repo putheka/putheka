@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-
 ![Focus](https://img.shields.io/badge/focus-backend%20architecture-0f172a?style=flat-square)
 ![Method](https://img.shields.io/badge/method-TDD-16a34a?style=flat-square)
 ![Open to](https://img.shields.io/badge/open%20to-collaboration-3b82f6?style=flat-square)
@@ -105,38 +104,6 @@ Schema changes shipped in steps: add, backfill, switch, drop. Never a deploy tha
 
 </div>
 </details>
-
-<details>
-<summary><b>📌 Selected work</b></summary>
-<br/>
-
-| Project | What it solves |
-|---|---|
-| _project-one_ | The problem it removed, in one line — not the feature list |
-| _project-two_ | What became possible that wasn't before |
-| _project-three_ | The interesting constraint you designed around |
-
-> Replace with real repositories. Two well-documented projects beat ten empty ones.
-
-</details>
-
-<details>
-<summary><b>🧪 What a test looks like to me</b></summary>
-<br/>
-
-The assertion I care about most is rarely the status code:
-
-```
-it rejects an order when stock is insufficient
-  → request returns a validation error
-  → the error names the offending field
-  → and the stock row is unchanged
-```
-
-A rejected request that silently mutated state is a passing test and a broken system.
-
-</details>
-
 ---
 
 <div align="center">
