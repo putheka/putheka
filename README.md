@@ -7,10 +7,9 @@
 </a>
 
 <br/>
-![Focus](https://img.shields.io/badge/focus-backend%20architecture-0f172a?style=flat-square)
-![Method](https://img.shields.io/badge/method-TDD-16a34a?style=flat-square)
-![Open to](https://img.shields.io/badge/open%20to-collaboration-3b82f6?style=flat-square)
-
+<img src="https://img.shields.io/badge/focus-backend%20architecture-0f172a?style=flat-square" alt="focus" />
+<img src="https://img.shields.io/badge/method-TDD-16a34a?style=flat-square" alt="method" />
+<img src="https://img.shields.io/badge/open%20to-collaboration-3b82f6?style=flat-square" alt="open to collaboration" />
 </div>
 
 ---
